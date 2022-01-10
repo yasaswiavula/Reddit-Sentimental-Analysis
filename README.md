@@ -1,5 +1,6 @@
 # Reddit-Sentimental-Analysis
 Implementing Sentimental Analysis on Reddit data using Text Mining,
+    
     * Creating a Reddit connection with our client ID and client secret.
     
     * Obtaining Comments From A Reddit Post
